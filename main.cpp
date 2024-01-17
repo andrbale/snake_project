@@ -4,7 +4,7 @@
 #include "include/raylib.h"
 #include "src/game.hpp"
 
-using namespace raylib_ns; // I added the namespace to the raylib to avoid conflicts with catch.hpp definitions
+using namespace raylib_ns; // I added a namespace to the raylib to avoid conflicts with catch.hpp definitions
 
 int main(){
 
