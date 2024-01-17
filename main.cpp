@@ -1,6 +1,5 @@
 #include <iostream>
 #include <thread>
-#include <conio.h>
 #include "src/snake.hpp"
 #include "include/raylib.h"
 #include "src/game.hpp"
